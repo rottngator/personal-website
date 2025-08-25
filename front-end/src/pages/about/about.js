@@ -37,7 +37,7 @@ const About = () => {
                             <div className='about-info'>swamp / fish / Thing</div>
 
                             <div className='about-label'>AGE:</div>
-                            <div className='about-info'>20</div>
+                            <div className='about-info'>21</div>
 
                             <div className='about-label'>MBTI:</div>
                             <div className='about-info'>infp-t</div>
@@ -72,6 +72,7 @@ const About = () => {
                         <h2>LINKS !</h2>
                         <ul className='link-list'>
                             <li><a href='https://github.com/gator-bones'>github</a></li>
+                            <li><a href='https://steamcommunity.com/profiles/76561198392106811/'>steam</a></li>
                         </ul>
                     </div>
                     
@@ -82,7 +83,13 @@ const About = () => {
                     </div>
 
                     <div className='aquarium-column main-content-column'>
-                        
+                        <h2>hi hi!</h2>
+                        <p>
+                            it's nice to meet you stranger ! i'm gator. or swamp, or fish, or
+                            however you come to meet me. i am 21 years old, and i'm a web developer
+                            that's about to graduate in less than like.. basically two weeks. i have
+                            social anxiety, which 
+                        </p>
                     </div>
 
                     <div className='aquarium-column sidebar-column'>
