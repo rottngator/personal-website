@@ -28,7 +28,7 @@ const About = () => {
 
                     <div className='aquarium-column main-content-column'>
                     <div className='about-me-container'>
-                        <img src='./images/about/sponge_icon1.jpg' alt='icon' />
+                        <img src='./images/about/alan_icon2.jpg' alt='icon' />
                         
                         <div className='about-info-grid'>
                             <div className='about-label'>NAME:</div>
