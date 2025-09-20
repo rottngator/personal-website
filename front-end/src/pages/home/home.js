@@ -1,6 +1,7 @@
 import React from 'react';
 import './home.css';
 import Nav from '../../component/nav/nav';
+import Footer from '../../component/footer/footer';
 
 const Home = () => {
     return (
@@ -58,13 +59,7 @@ const Home = () => {
                     </div>
                 </div>
 
-                <div className='site-footer'>
-                    <p>
-                    created: 2025
-                    <img src='./images/decor/fishDividerFooter.png' alt='fish divider'></img>
-                    site updated: 7/27/2025
-                    </p>
-                </div>
+                <Footer />
             </div>
 
             <img src='./images/decor/loserTag.png' 

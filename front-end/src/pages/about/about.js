@@ -1,6 +1,7 @@
 import React from 'react';
 import './about.css';
 import Nav from '../../component/nav/nav';
+import Footer from '../../component/footer/footer';
 
 const About = () => {
     return (
@@ -87,8 +88,9 @@ const About = () => {
                         <p>
                             it's nice to meet you stranger ! i'm gator. or swamp, or fish, or
                             however you come to meet me. i am 21 years old, and i'm a web developer
-                            that's about to graduate in less than like.. basically two weeks. i have
-                            social anxiety, which 
+                            that just graduated from college. which is.. terrifying. i have
+                            social anxiety, which causes me to have a lot of trouble making and 
+                            keeping connections. 
                         </p>
                     </div>
 
@@ -99,13 +101,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div className='site-footer'>
-                    <p>
-                    created: 2025
-                    <img src='./images/decor/fishDividerFooter.png' alt='fish divider'></img>
-                    site updated: 7/27/2025
-                    </p>
-                </div>
+                <Footer />
             </div>
 
             {/* <img src='./images/decor/loserTag.png' 
