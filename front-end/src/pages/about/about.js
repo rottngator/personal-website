@@ -78,8 +78,9 @@ const About = () => {
                     </div>
                     
                     <div className='aquarium-column sidebar-column'>
-                        <h2>idk yet</h2>
+                        <h2>WRITINGS !</h2>
                         <ul className='todo-list'>
+                            <li></li>
                         </ul>
                     </div>
 
@@ -90,7 +91,8 @@ const About = () => {
                             however you come to meet me. i am 21 years old, and i'm a web developer
                             that just graduated from college. which is.. terrifying. i have
                             social anxiety, which causes me to have a lot of trouble making and 
-                            keeping connections. 
+                            keeping connections. i also have severe(?) attachment issues, that
+                            like to manifest differently with different people. its SUPER fun.
                         </p>
                     </div>
 
