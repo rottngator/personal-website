@@ -56,12 +56,6 @@
     flex-direction: column;
 }
 
-.content-title { 
-    text-align: left;
-    padding: 5px;
-    margin-top: 1px;
-}
-
 .content-section-one { 
     flex: 1; 
     background-color: rgba(0, 0, 0, 0.5);
