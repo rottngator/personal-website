@@ -18,7 +18,9 @@ const About = () => {
     
     <div class="status-section">
     <p>
-        <i>"Remember that you must die."</i>
+        <i>"Remember that you must die,"</i>
+        <br></br>
+        <i>"Remember that you must <b>live</b>."</i>
     </p>
     <div className='status-img-section'>
             <img src='./images/backgrounds/hikaru_header2.jpg' alt='header'/>
@@ -30,7 +32,8 @@ const About = () => {
         <div class="content-section-one">
             <p>
             <img className='about-icon' src='./images/about/hikaru_icon1.jpg' alt='icon' />
-            <img src='./images/decor/fragile.gif' alt='fragile' />
+            <img className='fragile-describer' src='./images/decor/fragile.gif' alt='fragile' />
+            <img className='flag-icon' src='./images/decor/about/demi_flag.gif' alt='demisexual flag' />
             </p>
 
             <ul className='about-me-list'>

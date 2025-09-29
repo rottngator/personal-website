@@ -17,7 +17,9 @@ const Home = () => {
     
     <div class="status-section">
     <p>
-        <i>"Remember that you must die."</i>
+        <i>"Remember that you must die,"</i>
+        <br></br>
+        <i>"Remember that you must <b>live</b>."</i>
     </p>
     <div className='status-img-section'>
             <img src='./images/backgrounds/hikaru_header2.jpg' alt='header'/>
