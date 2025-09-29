@@ -4,44 +4,31 @@ import "./nav.css";
 const Nav = () => {
   return (
     <div className="nav-box">
-      <h2 className="nav-title">Navigation</h2>
+      <h2 className="nav-title">SITE</h2>
       <ul>
         <li>
-          <a href="/">
-            <img src="./images/buttons/homeFish.png" alt="home" />
-          </a>
+          <a href="/">Home</a>
         </li>
         <li>
-          <a href="/about">
-            <img src="./images/buttons/aboutFish.png" alt="about" />
-          </a>
+          <a href="/about">About</a>
         </li>
         <li>
-          <a href="/friends">
-            <img src="./images/buttons/friendFish.png" alt="friends" />
-          </a>
+          <a href="/friends">Friends</a>
         </li>
         <li>
-          <a href="/byf_dni">
-            <img src="./images/buttons/interactFish.png" alt="byf_dni" />
-          </a>
+          <a href="/byf_dni">BYF / DNI</a>
         </li>
         <li>
-          <a href="/guestbook">
-            <img src="./images/buttons/guestFish.png" alt="guestbook" />
-          </a>
+          <a href="/guestbook">GUESTBOOK</a>
         </li>
         <li>
-          <a href="/projects">
-            <img src="./images/buttons/projectFish.png" alt="projects" />
-          </a>
+          <a href="/projects">PROJECTS</a>
         </li>
         <li>
-          <a href="/sitemap">
-            <img src="./images/buttons/sitemapFish.png" alt="sitemap" />
-          </a>
+          <a href="/sitemap">SITEMAP</a>
         </li>
       </ul>
+      <h2 className="nav-title">OFF SITE</h2>
     </div>
   );
 };

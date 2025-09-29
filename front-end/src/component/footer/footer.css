@@ -1,8 +1,7 @@
 .site-footer {
     grid-area: site-footer-area;
-    background-color: rgba(1, 4, 29, 0.7);
-    border: 3px solid #00568C;
-    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 0px;
     padding: 15px 20px;
     text-align: center;
     color: #ADD8E6;
