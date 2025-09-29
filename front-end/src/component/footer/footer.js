@@ -8,7 +8,7 @@ const Footer = () => {
                 <p>
                     created: 08/2025
                     <img src='./images/decor/fishDividerFooter.png' alt='fish divider'></img>
-                    site updated: 09/20/2025                    </p>
+                    site updated: 09/28/2025                    </p>
             </div>
         </div>
     )

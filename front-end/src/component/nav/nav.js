@@ -7,13 +7,13 @@ const Nav = () => {
       <h2 className="nav-title">SITE</h2>
       <ul>
         <li>
-          <a href="/">Home</a>
+          <a href="/">HOME</a>
         </li>
         <li>
-          <a href="/about">About</a>
+          <a href="/about">ABOUT</a>
         </li>
         <li>
-          <a href="/friends">Friends</a>
+          <a href="/friends">FRIENDS</a>
         </li>
         <li>
           <a href="/byf_dni">BYF / DNI</a>

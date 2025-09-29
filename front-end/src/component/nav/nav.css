@@ -20,5 +20,6 @@
 }
 
 .nav-title {
-    text-align: center;
+    text-align: left;
+    padding: 5px;
 }
