@@ -14,16 +14,45 @@ const Home = () => {
         <Nav />
         <Update />
     </div>
+    
     <div class="status-section">
+    <p>
+        <i>"Remember that you must die."</i>
+    </p>
     <div className='status-img-section'>
-            <img src='./images/decor/hikaruhome1.gif' alt='hikaru home'></img>
+            <img src='./images/backgrounds/hikaru_header2.jpg' alt='header'/>
         </div>
-    <p>test</p>
 
     </div>
     <div class="content-section">
         <div class="content-section-one">
-            <p>test</p>
+        <h2 className='content-title'>WELCOME !</h2>
+            <p>
+            hello ! welcome to my corner of the web. this 
+            is my personal website, which is where i will 
+            say <i>many</i> things about my interests and what's
+            happening in my life. i'll try and update this site 
+            as often as i can, but i'm probably gonna forget.
+            if something is borked, i'll try and fix it as soon
+            as i can ! 
+            </p>
+
+            <p>
+                btw if you know me in real life, <b>GET OUT</b> <s>jk i love you</s> 
+            </p>
+        </div>
+        <div class="content-section-two">
+            <p>
+            i just graduated college, so im still rediscovering
+            myself. recently got back into watching shows, and 
+            have been watching a lot of anime surprisingly. 
+            im going to try and watch as many shows before the
+            end of the year, mainly because i have nothing 
+            better to do while i learn some new coding languages
+            and look for jobs / freelance. feel free to recommend
+            some shows for me or some manga for me to read !
+            ( i do in fact read, despite popular belief ).
+            </p>
         </div>
     </div>
         

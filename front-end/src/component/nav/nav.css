@@ -19,6 +19,11 @@
     text-decoration: none;
 }
 
+.nav-box a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
 .nav-title {
     text-align: left;
     padding: 5px;
