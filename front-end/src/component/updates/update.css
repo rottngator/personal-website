@@ -1,0 +1,10 @@
+.update-box {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: 130px;
+    margin-right: 85px;
+}
+
+.update-title {
+    text-align: left;
+    padding: 5px;
+}
