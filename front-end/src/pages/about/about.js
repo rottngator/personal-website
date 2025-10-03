@@ -31,10 +31,11 @@ const About = () => {
                 <div class="content-section-one">
                     
                     <div className='about-icons-wrapper'> 
-                        <img className='about-icon' src='./images/about/hikaru_icon1.jpg' alt='icon' />
+                        <img className='about-icon' src='./images/about/hikaru_icon2.jpg' alt='icon' />
                         <br></br>
                         <img className='fragile-describer' src='./images/decor/about/fragile.gif' alt='fragile' />
                         <img className='entity-describer' src='./images/decor/about/entity.gif' alt='entity' />
+                        <br></br>
                         <img className='flag-icon' src='./images/decor/about/demi_flag.gif' alt='demisexual flag' />
                     </div>
 
@@ -46,7 +47,7 @@ const About = () => {
                             <b>NICKNAMES:</b> swamp / thing / fish
                         </li>
                         <li>
-                            <b>AGE:</b> 21
+                            <b>AGE:</b> 21 years old
                         </li>
                         <li>
                             <b>PRONOUNS:</b> she / they / any
@@ -60,7 +61,15 @@ const About = () => {
                 <div class="content-section-two">
                     <p>
                     heya, i'm some dork from the midwest who happens to know a little 
-                    coding ( i went to college for it ). 
+                    coding ( i went to college for it ) though to be specific i have a 
+                    degree in web development and design!
+                    i'm currently reading Goth by Otsuchi,
+                    and i'm working on this website. i wanna start learning how to build games for 
+                    fun, and learn how to make my own models for them.
+                    </p>
+
+                    <p>
+
                     </p>
 
                     <p>
