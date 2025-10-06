@@ -47,7 +47,13 @@ const About = () => {
                             <b>NICKNAMES:</b> swamp / thing / fish
                         </li>
                         <li>
+                            <b>MBTI:</b>INFP-T
+                        </li>
+                        <li>
                             <b>AGE:</b> 21 years old
+                        </li>
+                        <li>
+                        <b>ZODIAC: leo</b>
                         </li>
                         <li>
                             <b>PRONOUNS:</b> she / they / any
@@ -63,17 +69,30 @@ const About = () => {
                     heya, i'm some dork from the midwest who happens to know a little 
                     coding ( i went to college for it ) though to be specific i have a 
                     degree in web development and design!
-                    i'm currently reading Goth by Otsuchi,
-                    and i'm working on this website. i wanna start learning how to build games for 
-                    fun, and learn how to make my own models for them.
+                    i'm currently reading Goth by Otsuchi, and playing Ghost of Yotei. plus,
+                    i'm working on this website. i wanna start learning how to build games for 
+                    fun, and learn how to make my own models for them but that's probably gonna
+                    be a while.
                     </p>
 
                     <p>
-
+                    i have social anxiety ( diagnosed ), which unfortunately means i'm not super good at talking 
+                    to people. BUT i'm working on it, and i've gotten better since i started college. 
+                    all that i ask is that if you decide to interact with me, is that you're patient
+                    with me ! i'll try my best to to interact with you, i'll attempt to be as social
+                    as i can. i'll be awkward, but i'll try my best. :']
+                    </p>
+                    <p>
+                    wip
                     </p>
 
-                    <p>
+                    <img src='./images/blinkies/toxic_mold.gif' alt='mold....'/>
+                    <img src='./images/decor/about/webbing_it.gif' alt='i miss her tails'/>
+                </div>
 
+                <div className='content-section-three'>
+                    <p>
+                    games
                     </p>
                 </div>
             </div>
