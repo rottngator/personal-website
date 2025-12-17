@@ -4,7 +4,7 @@ html, body {
 
 body {
   margin: 0;
-  background: url('/public/images/backgrounds/blackwhite1.jpg') no-repeat center center fixed;
+  background: url('/public/images/backgrounds/pw_background.png') no-repeat center center fixed;
   background-size: cover;
   font-family: 'Share Tech Mono', monospace;
   color: #ddd;

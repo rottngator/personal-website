@@ -10,19 +10,19 @@ const Home = () => {
     <div class="main-container"></div>
     <div class="header-section">
         
-        <img src='./images/decor/hikaru_yoshiki_header1.jpg' alt='header'></img>
+        <img src='./images/decor/fissh.jpg' alt='left header'></img>
         <Nav />
         <Update />
     </div>
     
     <div class="status-section">
     <p>
-        <i>"Remember that you must die,"</i>
+        <i>"Only dead fish swim</i>
         <br></br>
-        <i>"Remember that you must <b>live</b>."</i>
+        <i>with the <b>current</b>."</i>
     </p>
     <div className='status-img-section'>
-            <img src='./images/backgrounds/hikaru_header2.jpg' alt='header'/>
+            <img src='./images/decor/pw_headerv1.png' alt='header'/>
         </div>
 
     </div>
@@ -51,9 +51,31 @@ const Home = () => {
             im going to try and watch as many shows before the
             end of the year, mainly because i have nothing 
             better to do while i learn some new coding languages
-            and look for jobs / freelance. feel free to recommend
-            some shows for me or some manga for me to read !
-            ( i do in fact read, despite popular belief ).
+            and look for jobs / freelance. also been interested 
+            in getting into marvel comics, so i'll more than
+            likely will have something to say about that when 
+            i actually get some.
+            </p>
+
+            <p>
+            i'm very inconsistent when it comes to coding, but i've
+            come to realize that's probably because i did it for 
+            three years and lost my enjoyment for it. i'm hoping 
+            with this website and a few other projects i'm wanting
+            to start, i'll rekindle it and become more consistent 
+            rather than continually putting it off like i have 
+            been for the last couple months.
+            </p>
+
+            <p>
+            i will also be experimenting with the theme of this 
+            particular website a lot until i find something i like,
+            and stick to that general theme. i also code on a big 
+            ass monitor, so if things look weird for you, that's 
+            probably why and i haven't gotten around to making it
+            responsive for lots of different monitor sizes. more 
+            than likely it looks SUPER weird on mobile. probably
+            best to not view it on your phone quite yet.
             </p>
         </div>
     </div>

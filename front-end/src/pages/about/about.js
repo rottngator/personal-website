@@ -11,19 +11,19 @@ const About = () => {
             <div class="main-container"></div>
             <div class="header-section">
                 
-                <img src='./images/decor/hikaru_yoshiki_header1.jpg' alt='header'></img>
+                <img src='./images/decor/fissh.jpg' alt='left header'></img>
                 <Nav />
                 <Update />
             </div>
             
             <div class="status-section">
                 <p>
-                    <i>"Remember that you must die,"</i>
+                    <i>"Only dead fish swim</i>
                     <br></br>
-                    <i>"Remember that you must <b>live</b>."</i>
+                    <i>with the <b>current</b>."</i>
                 </p>
                 <div className='status-img-section'>
-                    <img src='./images/backgrounds/hikaru_header2.jpg' alt='header'/>
+                    <img src='./images/decor/pw_headerv1.png' alt='header'/>
                     
                 </div>
             </div>
@@ -53,7 +53,7 @@ const About = () => {
                             <b>AGE:</b> 21 years old
                         </li>
                         <li>
-                        <b>ZODIAC: leo</b>
+                        <b>ZODIAC:</b> leo
                         </li>
                         <li>
                             <b>PRONOUNS:</b> she / they / any
@@ -68,8 +68,8 @@ const About = () => {
                     <p>
                     heya, i'm some dork from the midwest who happens to know a little 
                     coding ( i went to college for it ) though to be specific i have a 
-                    degree in web development and design!
-                    i'm currently reading Goth by Otsuchi, and playing Ghost of Yotei. plus,
+                    degree in <u>web development and design!</u>
+                    i'm currently reading Goth by Otsuchi, and playing Marvel Rivals. plus,
                     i'm working on this website. i wanna start learning how to build games for 
                     fun, and learn how to make my own models for them but that's probably gonna
                     be a while.
@@ -87,7 +87,7 @@ const About = () => {
                     </p>
 
                     <img src='./images/blinkies/toxic_mold.gif' alt='mold....'/>
-                    <img src='./images/decor/about/webbing_it.gif' alt='i miss her tails'/>
+                    <img src='./images/decor/about/webbing_it.gif' alt='webbing it'/>
                 </div>
 
                 <div className='content-section-three'>

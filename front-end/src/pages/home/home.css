@@ -4,7 +4,7 @@
     grid-template-rows: 100px 2fr 1fr; 
     gap: 0px 0px;
     grid-auto-flow: row;
-    margin-top: 180px;
+    margin-top: 90px;
     margin-left: 90px;
     margin-right: 70px;
 }
@@ -21,6 +21,7 @@
     width: 250px;
     height: 150px;
     margin-left: 130px;
+    border-radius: 15px;
 }
 
 .status-section { 
@@ -46,6 +47,7 @@
     width: 500px;
     height: 160px;
     margin-top: 50px;
+    border-radius: 15px;
 }
 
 .content-section { 
@@ -55,6 +57,10 @@
     gap: 10px;
     padding: 10px;
     flex-direction: column;
+}
+
+.content-section-one h2 {
+    margin-left: 5px;
 }
 
 .content-section-one { 
@@ -75,7 +81,7 @@
     flex: 1; 
     background-color: rgba(0, 0, 0, 0.5);
     margin-left: -50px;
-    margin-bottom: 50px;
+    margin-bottom: 1px;
 }
 
 .content-section-two p {

@@ -10,3 +10,13 @@
     text-align: left;
     padding: 5px;
 }
+
+.update-date {
+    margin-top: -25px;
+    margin-left: 7px;
+}
+
+.update-content { 
+    margin-left: 7px;
+    padding-right: 5px;
+}
