@@ -1,10 +1,10 @@
 import React from 'react'
-import './projects.css';
-import Nav from '../../component/nav/nav';
-import Footer from '../../component/footer/footer';
-import Update from '../../component/updates/update';
+import './friend.css';
+import Nav from '../../../component/nav/nav';
+import Footer from '../../../component/footer/footer';
+import Update from '../../../component/updates/update';
 
-const Project = () => {
+const Friend = () => {
     return (
         <div class="container">
     <div class="main-container"></div>
@@ -28,7 +28,7 @@ const Project = () => {
     </div>
     <div class="content-section">
         <div class="content-section-one">
-        <h2 className='content-title'>PROJECTS !</h2>
+        <h2 className='content-title'>FRIEN !</h2>
             <p>
             content section 1
             </p>
@@ -48,4 +48,4 @@ const Project = () => {
     );
 }
 
-export default Project
+export default Friend

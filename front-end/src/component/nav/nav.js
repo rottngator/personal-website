@@ -16,7 +16,7 @@ const Nav = () => {
           <a href="/friends">FRIENDS</a>
         </li>
         <li>
-          <a href="/byf_dni">BYF / DNI</a>
+          <a href="/byf">BYF / DNI</a>
         </li>
         <li>
           <a href="/guestbook">GUESTBOOK</a>
@@ -29,6 +29,12 @@ const Nav = () => {
         </li>
       </ul>
       <h2 className="nav-title">OFF SITE</h2>
+
+      <ul>
+        <li>
+          
+        </li>
+      </ul>
     </div>
   );
 };

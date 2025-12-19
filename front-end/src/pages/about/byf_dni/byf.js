@@ -1,53 +1,50 @@
 import React from 'react';
 import './byf.css';
 import Nav from '../../../component/nav/nav';
+import Footer from '../../../component/footer/footer';
+import Update from '../../../component/updates/update';
 
 const Byf = () => {
     return (
-        <div>
-            <div className='big-aquarium-container'>
-
-                <div className='site-header-image-area'>
-                </div>
-
-                <div className='da-scroll'>
-                    <div className='scroll-text'>
-                        <img src='./images/blinkies/friday_13.gif' alt='friday the 13th blinkie' />
-                        <img src='./images/blinkies/something_fishy.gif' alt='fish' />
-                        <img src='./images/blinkies/toxic_mold.gif' alt='toxic mold babee' />
-                        <img src='./images/blinkies/da_blinkie.gif' alt='da blinkie?!' />
-                        <img src='./images/blinkies/i_miss_her_tails.jpg' alt='i miss her tails' />
-                    </div>
-                </div>
-
-                <div className='aquarium-content-columns'>
-                    <div className='aquarium-column menu-column'>
-                        <Nav />
-                    </div>
-
-                    <div className='aquarium-column main-content-column'>
-                        
-                    </div>
-
-                    <div className='aquarium-column sidebar-column'>
-                        <h2>LINKS !</h2>
-                        <ul className='todo-list'>
-                        </ul>
-                    </div>
-                </div>
-
-                <div className='site-footer'>
-                    <p>
-                    created: 2025
-                    <img src='./images/decor/fishDividerFooter.png' alt='fish divider'></img>
-                    site updated: 7/27/2025
-                    </p>
-                </div>
-            </div>
-
-            <img src='./images/decor/loserTag.png' 
-            alt='loser tag' className='loser-tag' />
+        <div class="container">
+    <div class="main-container"></div>
+    <div class="header-section">
+        
+        <img src='./images/decor/fissh.jpg' alt='left header'></img>
+        <Nav />
+        <Update />
+    </div>
+    
+    <div class="status-section">
+    <p>
+        <i>"Only dead fish swim</i>
+        <br></br>
+        <i>with the <b>current</b>."</i>
+    </p>
+    <div className='status-img-section'>
+            <img src='./images/decor/pw_headerv1.png' alt='header'/>
         </div>
+
+    </div>
+    <div class="content-section">
+        <div class="content-section-one">
+        <h2 className='content-title'>BE YOUR FRIEND !</h2>
+            <p>
+            content section 1
+            </p>
+        </div>
+        <div class="content-section-two">
+            <p>
+            content section 2
+            </p>
+        </div>
+    </div>
+        
+    
+    <div class="footer-section">
+        <Footer />
+    </div>
+</div>
     );
 }
 

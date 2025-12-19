@@ -12,6 +12,8 @@ const Update = () => {
                 <b>09/29/2025:</b> about started
                 <br></br>
                 <b>12/17/2025:</b> i remembered i had this
+                <br></br>
+                <b>12/18/2025:</b> started fixing some small elements
             </p>
         </div>
     );
