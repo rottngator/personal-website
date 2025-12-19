@@ -31,10 +31,11 @@ const About = () => {
                 <div class="content-section-one">
                     
                     <div className='about-icons-wrapper'> 
-                        <img className='about-icon' src='./images/about/hikaru_icon2.jpg' alt='icon' />
+                        <img className='about-icon' src='./images/about/pw_abouticon_gmbt1.png' alt='icon' />
                         <br></br>
                         <img className='fragile-describer' src='./images/decor/about/fragile.gif' alt='fragile' />
                         <img className='entity-describer' src='./images/decor/about/entity.gif' alt='entity' />
+                        <img className='wizard-describer' src='./images/decor/about/wizard.gif' alt='wizard'/>
                         <br></br>
                         <img className='flag-icon' src='./images/decor/about/demi_flag.gif' alt='demisexual flag' />
                     </div>
@@ -92,7 +93,17 @@ const About = () => {
 
                 <div className='content-section-three'>
                     <p>
-                    games
+                     <h2>GAMES</h2>
+                    </p>
+
+                    <p>
+                        pictures
+                    </p>
+                </div>
+
+                <div className='content-section-four'>
+                    <p>
+                    <h2>BOOKS</h2>
                     </p>
                 </div>
             </div>
