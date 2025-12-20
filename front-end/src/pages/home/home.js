@@ -3,6 +3,7 @@ import './home.css';
 import Nav from '../../component/nav/nav';
 import Footer from '../../component/footer/footer';
 import Update from '../../component/updates/update';
+import Current from '../../component/current/current';
 
 const Home = () => {
     return (

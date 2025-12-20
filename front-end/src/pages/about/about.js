@@ -1,9 +1,10 @@
 import React from 'react';
-import '../home/home.css';
+// import '../home/home.css';
 import './about.css';
 import Nav from '../../component/nav/nav';
 import Footer from '../../component/footer/footer';
 import Update from '../../component/updates/update';
+import Current from '../../component/current/current';
 
 const About = () => {
     return (
@@ -14,6 +15,7 @@ const About = () => {
                 <img src='./images/decor/fissh.jpg' alt='left header'></img>
                 <Nav />
                 <Update />
+                <Current />
             </div>
             
             <div class="status-section">
@@ -50,6 +52,7 @@ const About = () => {
                         <li>
                             <b>MBTI:</b>INFP-T
                         </li>
+                        <br></br>
                         <li>
                             <b>AGE:</b> 21 years old
                         </li>
@@ -59,17 +62,22 @@ const About = () => {
                         <li>
                             <b>PRONOUNS:</b> she / they / any
                         </li>
+                        <br></br>
                         <li>
                             <b>TIMEZONE:</b> CST
                         </li>
                     </ul>
+
+                    <br></br>
+                    <p>more desribers here</p>
 
                 </div>
                 <div class="content-section-two">
                     <p>
                     heya, i'm some dork from the midwest who happens to know a little 
                     coding ( i went to college for it ) though to be specific i have a 
-                    degree in <u>web development and design!</u>
+                    degree in <u>web development and design!</u> 
+                    <br></br>
                     i'm currently reading Goth by Otsuchi, and playing Marvel Rivals. plus,
                     i'm working on this website. i wanna start learning how to build games for 
                     fun, and learn how to make my own models for them but that's probably gonna
@@ -80,7 +88,7 @@ const About = () => {
                     i have social anxiety ( diagnosed ), which unfortunately means i'm not super good at talking 
                     to people. BUT i'm working on it, and i've gotten better since i started college. 
                     all that i ask is that if you decide to interact with me, is that you're patient
-                    with me ! i'll try my best to to interact with you, i'll attempt to be as social
+                    with me ! i'll try my best to interact with you, i'll attempt to be as social
                     as i can. i'll be awkward, but i'll try my best. :']
                     </p>
                     <p>
@@ -93,17 +101,34 @@ const About = () => {
 
                 <div className='content-section-three'>
                     <p>
-                     <h2>GAMES</h2>
+                     <h2>THINGS I LIKE</h2>
                     </p>
 
                     <p>
-                        pictures
+                        <b>games: </b> <img src='./images/decor/about/icon_dividers/pw_icon1.png' alt='icon 1' /> path of titans, 
                     </p>
+
+                    <p>
+                        <b>books: </b> the twisted ones by t. kingfisher
+                    </p>
+
+                    <p>
+                        <b>shows: </b> criminal minds, 
+                    </p>
+
+                    <p></p>
+
                 </div>
 
                 <div className='content-section-four'>
                     <p>
                     <h2>BOOKS</h2>
+                    </p>
+                </div>
+
+                <div className='content-section-five'>
+                    <p>
+                    <h2>CHARACTERS</h2>
                     </p>
                 </div>
             </div>

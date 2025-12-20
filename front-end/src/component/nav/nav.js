@@ -32,7 +32,13 @@ const Nav = () => {
 
       <ul>
         <li>
-          
+          <a href="https://gatorgutz.carrd.co">CARRD</a>
+        </li>
+        <li>
+          <a href="https://github.com/rottngator">GITHUB</a>
+        </li>
+        <li>
+          <a href="https://steamcommunity.com/profiles/76561198392106811/">STEAM</a>
         </li>
       </ul>
     </div>
