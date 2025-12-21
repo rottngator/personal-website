@@ -14,6 +14,11 @@ const Update = () => {
                 <b>12/17/2025:</b> i remembered i had this
                 <br></br>
                 <b>12/18/2025:</b> started fixing some small elements
+                <br></br>
+                <b>12/20/2025:</b> added music player to about, added 
+                current container to about to get rid of some of the 
+                empty spacing, added some off site links, messing around
+                with about layout.
             </p>
         </div>
     );

@@ -5,6 +5,7 @@ import Nav from '../../component/nav/nav';
 import Footer from '../../component/footer/footer';
 import Update from '../../component/updates/update';
 import Current from '../../component/current/current';
+import Blinkie from '../../component/blinkie_list/blinkie';
 
 const About = () => {
     return (
@@ -16,6 +17,7 @@ const About = () => {
                 <Nav />
                 <Update />
                 <Current />
+                <Blinkie />
             </div>
             
             <div class="status-section">
@@ -35,7 +37,6 @@ const About = () => {
                     <div className='about-icons-wrapper'> 
                         <img className='about-icon' src='./images/about/pw_abouticon_gmbt1.png' alt='icon' />
                         <br></br>
-                        <img className='fragile-describer' src='./images/decor/about/fragile.gif' alt='fragile' />
                         <img className='entity-describer' src='./images/decor/about/entity.gif' alt='entity' />
                         <img className='wizard-describer' src='./images/decor/about/wizard.gif' alt='wizard'/>
                         <br></br>
@@ -97,6 +98,9 @@ const About = () => {
 
                     <img src='./images/blinkies/toxic_mold.gif' alt='mold....'/>
                     <img src='./images/decor/about/webbing_it.gif' alt='webbing it'/>
+                    <br></br>
+                    <img src='./images/blinkies/employee.gif' alt='employee of the month babeeyy'/>
+                    <img src='./images/blinkies/like_fish.gif' alt='i like fish' />
                 </div>
 
                 <div className='content-section-three'>
@@ -108,7 +112,7 @@ const About = () => {
                         <b>games</b> <img src='./images/decor/about/icon_dividers/pw_icon1.png' alt='icon 1' /> path of titans, 
                             marvel rivals, megabonk, red dead redemption 2, HELLDIVERS 2, dead by daylight,
                             roblox, DEATH STRANDING, the isle, sons of the forest, the forest, phasmophobia, 
-                            left 4 dead 2, until dawn, ghost of tsushima, clover pit, 
+                            left 4 dead 2, until dawn, ghost of tsushima, clover pit, powerwash simulator
                     </p>
 
                     <p>
@@ -117,16 +121,26 @@ const About = () => {
                     </p>
 
                     <p>
-                        <b>shows: </b> criminal minds, supernatural, 
+                        <b>shows: </b> criminal minds, supernatural, the summer hikaru died, stranger things, 
                     </p>
 
-                    <p></p>
+                    <p>
+                        <b>music </b> sleep token, HIMALAYAS, Ghost, odetari, lord huron, sick joy, jiinzo, 
+                        the home team, snave, LEAP, mo lowda & the humble, kanii, friday pilots club, 
+                        hollywood undead, lil hero, post malone, holywatr, whatsaheart, cade clair, SUPXR, 
+                        lady gaga, katy perry, the technicolors
+                    </p>
 
                 </div>
 
                 <div className='content-section-four'>
                     <p>
-                    <h2>EXTRA</h2>
+                    <h2>FAV CHARACTERS</h2>
+
+                    <p>
+                        image
+                    </p>
+
                     </p>
                 </div>
 
