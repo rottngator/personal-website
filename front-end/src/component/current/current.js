@@ -8,7 +8,7 @@ const Current = () => {
             <p className="current-content">
 
                 <p>What if...? - HIMALAYAS + The Haunt</p>
-                <img src='./images/current/ocean_music_cover.gif' alt='music cover' />
+                {/* <img src='./images/current/ocean_music_cover.gif' alt='music cover' /> */}
                 <audio
                     controls
                     src='./music/What_If.mp3'
@@ -17,7 +17,10 @@ const Current = () => {
                         your browsers doesn't support this audio element.
                 </audio>
 
-            <h4 className='current-book'>reading:</h4>
+            <h3>reading:</h3>
+                <p>
+                    Goth - Otsuchi
+                </p>
             </p>
         </div>
     );

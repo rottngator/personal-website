@@ -78,10 +78,10 @@ const About = () => {
                     coding ( i went to college for it ) though to be specific i have a 
                     degree in <u>web development and design!</u> 
                     <br></br>
-                    i'm currently reading Goth by Otsuchi, and playing Marvel Rivals. plus,
-                    i'm working on this website. i wanna start learning how to build games for 
+                    i'm mostly just working on this website. i wanna start learning how to build games for 
                     fun, and learn how to make my own models for them but that's probably gonna
-                    be a while.
+                    be a while. i've also started learning how to mess with audio, so that's been
+                    kinda fun ! 
                     </p>
 
                     <p>
@@ -105,15 +105,19 @@ const About = () => {
                     </p>
 
                     <p>
-                        <b>games: </b> <img src='./images/decor/about/icon_dividers/pw_icon1.png' alt='icon 1' /> path of titans, 
+                        <b>games</b> <img src='./images/decor/about/icon_dividers/pw_icon1.png' alt='icon 1' /> path of titans, 
+                            marvel rivals, megabonk, red dead redemption 2, HELLDIVERS 2, dead by daylight,
+                            roblox, DEATH STRANDING, the isle, sons of the forest, the forest, phasmophobia, 
+                            left 4 dead 2, until dawn, ghost of tsushima, clover pit, 
                     </p>
 
                     <p>
-                        <b>books: </b> the twisted ones by t. kingfisher
+                        <b>books: </b> the twisted ones by t. kingfisher, jurassic park, the summer hikaru died, 
+                        hollow places, 
                     </p>
 
                     <p>
-                        <b>shows: </b> criminal minds, 
+                        <b>shows: </b> criminal minds, supernatural, 
                     </p>
 
                     <p></p>
@@ -122,13 +126,13 @@ const About = () => {
 
                 <div className='content-section-four'>
                     <p>
-                    <h2>BOOKS</h2>
+                    <h2>EXTRA</h2>
                     </p>
                 </div>
 
                 <div className='content-section-five'>
                     <p>
-                    <h2>CHARACTERS</h2>
+                    <h2>EXTRA</h2>
                     </p>
                 </div>
             </div>
