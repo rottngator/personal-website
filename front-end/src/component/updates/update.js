@@ -19,6 +19,9 @@ const Update = () => {
                 current container to about to get rid of some of the 
                 empty spacing, added some off site links, messing around
                 with about layout.
+                <br></br>
+                <b>1/3/2026:</b> tried adding image to music player component, 
+                realized i didnt want to mess with it. might revisit. 
             </p>
         </div>
     );

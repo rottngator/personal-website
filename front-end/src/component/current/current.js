@@ -14,7 +14,7 @@ const Current = () => {
                     src='./music/What_If.mp3'
                     className='music-player'
                     >
-                        your browsers doesn't support this audio element.
+                        your browser doesn't support this audio element.
                 </audio>
 
             <h3>reading:</h3>

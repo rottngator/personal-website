@@ -122,6 +122,7 @@ const About = () => {
 
                     <p>
                         <b>shows: </b> criminal minds, supernatural, the summer hikaru died, stranger things, 
+                        older seasons of spongebob squarepants
                     </p>
 
                     <p>
@@ -137,9 +138,137 @@ const About = () => {
                     <p>
                     <h2>FAV CHARACTERS</h2>
 
-                    <p>
-                        image
-                    </p>
+
+                    <div className='character-grid'>
+
+                        <div className='character-card'>
+                        <img src='./images/about/favcharacters/bucky_barnes1.jpg'alt='bucky barnes' />
+                            <p>
+                                <b>Bucky Barnes</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                        <img src='./images\about\favcharacters\loki1.jpg' alt='loki' />
+                            <p>
+                                <b>Loki</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/gambit1.jpg' alt='gambit' />
+                            <p>
+                                <b>Gambit</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/steveh1.gif' alt='steve'/>
+                            <p>
+                                <b>Steve Harrington</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card' >
+                            <img src='./images/about/favcharacters/cap1.jpg' alt='cap' />
+                            <p>
+                                <b>Captain America</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/rengoku1.jpg' alt='rengoku' />
+                            <p>
+                                <b>Kyojuro Rengoku</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/terzo1.jpg' alt='Terzo' />
+                            <p>
+                                <b>Papa Emeritus III</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/cardinal1.jpg' alt='Cardinal' />
+                            <p>
+                                <b>Cardinal Copia</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/dean1.gif' alt='Dean' />
+                            <p>
+                                <b>Dean Winchester</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/ellis1.gif' alt='Ellis' />
+                            <p>
+                                <b>Ellis</b>
+                            </p>
+                        </div>
+                        
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/keegan1.jpg' alt='Keegan' />
+                            <p>
+                                <b>Keegan P. Russ</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/bob1.jpg' alt='Bob' />
+                            <p>
+                                <b>Bob</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/alan1.jpg' alt='Alan' />
+                            <p>
+                                <b>Alan Wake</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/arthur1.jpg' alt='Arthur' />
+                            <p>
+                                <b>Arthur Morgan</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/price1.jpg' alt='Price' />
+                            <p>
+                                <b>Captain Price</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/bonnie1.jpg' alt='Bonnie' />
+                            <p>
+                                <b>Bonnie the Bunny</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/spencer1.jpg' alt='Spencer' />
+                            <p>
+                                <b>Spencer Reid</b>
+                            </p>
+                        </div>
+
+                        <div className='character-card'>
+                            <img src='./images/about/favcharacters/hotchner1.jpg' alt='Hotch' />
+                            <p>
+                                <b>Aaron Hotchner</b>
+                            </p>
+                        </div>
+
+
+                    </div>
 
                     </p>
                 </div>

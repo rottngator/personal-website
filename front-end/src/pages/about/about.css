@@ -118,6 +118,39 @@
     margin-right: 5px;
 }
 
+.content-section-four b {
+    margin-left: 10px;
+}
+
+.character-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.character-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+}
+
+.content-section-four .character-card img {
+    border-radius: 20px;
+    width: 80%;
+    height: 200px;
+    margin-left: 0;
+    object-fit: cover;
+    display: block;
+}
+
+.content-section-four .character-card p {
+    text-align: center;
+}
+
 .content-section-five {
     flex: 2;
     background-color: rgba(0, 0, 0, 0.5);
