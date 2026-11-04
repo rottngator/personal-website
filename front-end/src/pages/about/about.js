@@ -9,9 +9,9 @@ import Blinkie from '../../component/blinkie_list/blinkie';
 
 const About = () => {
     return (
-        <div class="container">
-            <div class="main-container"></div>
-            <div class="header-section">
+        <div className="container">
+            <div className="main-container"></div>
+            <div className="header-section">
                 
                 <img src='./images/decor/fissh.jpg' alt='left header'></img>
                 <Nav />
@@ -20,7 +20,7 @@ const About = () => {
                 <Blinkie />
             </div>
             
-            <div class="status-section">
+            <div className="status-section">
                 <p>
                     <i>"Only dead fish swim</i>
                     <br></br>
@@ -86,14 +86,16 @@ const About = () => {
                     </p>
 
                     <p>
-                    i have social anxiety ( diagnosed ), which unfortunately means i'm not super good at talking 
-                    to people. BUT i'm working on it, and i've gotten better since i started college. 
+                    i have social anxiety ( diagnosed ), which unfortunately means i'm not super good at interacting 
+                    with people. BUT i'm working on it, and i've gotten better since i started college. 
                     all that i ask is that if you decide to interact with me, is that you're patient
                     with me ! i'll try my best to interact with you, i'll attempt to be as social
                     as i can. i'll be awkward, but i'll try my best. :']
                     </p>
                     <p>
-                    wip
+                    if you happen to look at this code, youre gonna notice it is not very.. dry. this is because
+                    i tend to forget the standards i was taught, and frankly this just works better with how my 
+                    brain functions. maybe i'll clean it up, but i would not count on it.
                     </p>
 
                     <img src='./images/blinkies/toxic_mold.gif' alt='mold....'/>
@@ -116,17 +118,17 @@ const About = () => {
                     </p>
 
                     <p>
-                        <b>books: </b> the twisted ones by t. kingfisher, jurassic park, the summer hikaru died, 
+                        <b>books <img src='./images/decor/about/icon_dividers/pw_icon2.png' alt='icon 2' /> </b> the twisted ones by t. kingfisher, jurassic park, the summer hikaru died, 
                         hollow places, 
                     </p>
 
                     <p>
-                        <b>shows: </b> criminal minds, supernatural, the summer hikaru died, stranger things, 
+                        <b>shows <img src='./images/decor/about/icon_dividers/pw_icon3.png' alt='icon 3' /> </b> criminal minds, supernatural, the summer hikaru died, stranger things, 
                         older seasons of spongebob squarepants
                     </p>
 
                     <p>
-                        <b>music </b> sleep token, HIMALAYAS, Ghost, odetari, lord huron, sick joy, jiinzo, 
+                        <b>music <img src='./images/decor/about/icon_dividers/pw_icon4.png' alt='icon 4' /> </b> sleep token, HIMALAYAS, Ghost, odetari, lord huron, sick joy, jiinzo, 
                         the home team, snave, LEAP, mo lowda & the humble, kanii, friday pilots club, 
                         hollywood undead, lil hero, post malone, holywatr, whatsaheart, cade clair, SUPXR, 
                         lady gaga, katy perry, the technicolors
