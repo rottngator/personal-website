@@ -12,10 +12,10 @@ const route = useRoute()
       <span class="brand-name">GATOR<br><strong>FIELD NOTES</strong></span>
     </RouterLink>
 
-    <p class="sidebar-label">PERSONAL ARCHIVE <span>90s INSPIRED</span></p>
+    <p class="sidebar-label">MY BIT OF THE INTERNET <span>EST. 2025</span></p>
 
     <nav class="site-nav" aria-label="Main navigation">
-      <span class="nav-heading">TRAIL MAP</span>
+      <span class="nav-heading">THE SITE</span>
       <RouterLink
         v-for="item in navigation"
         :key="item.path"
@@ -31,18 +31,18 @@ const route = useRoute()
     </nav>
 
     <section class="sidebar-card" aria-labelledby="status-heading">
-      <p class="card-eyebrow">RANGER STATION / STATUS</p>
-      <h2 id="status-heading">The gates are open.</h2>
-      <p class="sidebar-copy">Currently listening to “What If...?” by HIMALAYAS + The Haunt.</p>
+      <p class="card-eyebrow">A LITTLE BACKGROUND NOISE</p>
+      <h2 id="status-heading">On repeat lately</h2>
+      <p class="sidebar-copy">“What If...?” — HIMALAYAS + The Haunt</p>
       <audio controls preload="none" aria-label="Play What If...? by HIMALAYAS and The Haunt">
         <source src="/music/What_If.mp3" type="audio/mpeg">
         Your browser does not support audio playback.
       </audio>
-      <p class="sidebar-copy reading"><span>ON THE NIGHTSTAND</span><br>Goth — Otsuchi</p>
+      <p class="sidebar-copy reading"><span>ON MY NIGHTSTAND</span><br>Goth — Otsuchi</p>
     </section>
 
     <div class="sidebar-outposts">
-      <span class="nav-heading">OTHER OUTPOSTS</span>
+      <span class="nav-heading">FIND ME ELSEWHERE</span>
       <a href="https://gatorgutz.carrd.co" target="_blank" rel="noreferrer">Carrd <span>↗</span></a>
       <a href="https://github.com/rottngator" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
       <a href="https://steamcommunity.com/profiles/76561198392106811/" target="_blank" rel="noreferrer">Steam <span>↗</span></a>

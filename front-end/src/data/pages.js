@@ -2,7 +2,7 @@ export const contentPages = {
   about: {
     code: 'PROFILE / 01',
     title: 'The human behind the fence',
-    intro: 'Heya, I’m gator — a Midwest dork with a web development and design degree, a soft spot for strange creatures, and a habit of making little corners of the internet.',
+    intro: 'Heya, I’m gator — a Midwest dork with a web development and design degree, a soft spot for strange creatures, and a habit of making little corners of the internet. This is the bit that’s mine.',
     sections: [
       {
         title: 'A few field notes',

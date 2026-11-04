@@ -10,8 +10,8 @@ import SiteSidebar from './components/SiteSidebar.vue'
 
     <div class="main-column">
       <header class="topbar">
-        <span><span class="status-dot"></span> FIELD STATION / MIDWEST, USA</span>
-        <span class="topbar-right">A PERSONAL SITE — NOT AN ACTUAL PARK</span>
+        <span><span class="status-dot"></span> SOMEWHERE IN THE MIDWEST</span>
+        <span class="topbar-right">COME HAVE A LOOK AROUND</span>
       </header>
 
       <main id="main-content">
