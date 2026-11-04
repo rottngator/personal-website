@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from 'vue'
 import { useRoute } from 'vue-router'
-import { contentPages } from '../data/pages'
+import { contentPages } from '../../data/pages'
 
 const route = useRoute()
 const page = computed(() => contentPages[route.name])

@@ -22,13 +22,16 @@
       <article class="paper-card welcome-card">
         <p class="card-eyebrow">A LITTLE ABOUT ME</p>
         <h2>Heya, I’m gator.</h2>
-        <p>I’m a Midwest web-development-and-design grad building a small home on the internet. This place is where I talk about my interests, keep track of what I’m making, and occasionally remember to update things.</p>
+        <p>I’m a Midwest web-development-and-design grad building a small home on the internet. 
+          This place is where I talk about my interests, keep track of what I’m making, 
+          and occasionally remember to update things.</p>
         <RouterLink class="text-link" to="/about">MORE ABOUT ME <span aria-hidden="true">→</span></RouterLink>
       </article>
       <article class="dispatch-card">
         <p class="card-eyebrow">A LITTLE SITE UPDATE <span>11.03.26</span></p>
         <h2>Turns out I missed having a website.</h2>
-        <p>I started this thing last December, wandered off for a while, and came back wanting dinosaurs everywhere. So here we are. I’m still figuring it out as I go.</p>
+        <p>I started this thing last December, got busy with life, and came back wanting dinosaurs everywhere. So here we are. 
+          I’m still figuring it out as I go.</p>
         <span class="dispatch-mark handwritten-note">thanks for stopping by!</span>
       </article>
     </section>
@@ -45,24 +48,24 @@
         <article class="interest-item">
           <span class="interest-number">01</span>
           <div>
-            <h3>Dinosaurs & old bones</h3>
-            <p>Ancient animals, natural history, and the slightly unreasonable amount of time I can spend thinking about them.</p>
+            <h3>Paleontology</h3>
+            <p>Anicent animals, natural history, and basically everything involved. Mainly dinos, those are pretty cool.</p>
           </div>
           <span class="interest-symbol" aria-hidden="true">✳</span>
         </article>
         <article class="interest-item">
           <span class="interest-number">02</span>
           <div>
-            <h3>Creature games</h3>
-            <p>Jurassic Park, The Isle, Path of Titans, Terrible Lizards — if it has big creatures, I’m probably interested.</p>
+            <h3>Survival / Horror Games</h3>
+            <p>Dead by Daylight, Silent Hill f, The Outlast Trials, Path of Titans, The Isle, Terrible Lizards are currently games i'm into.</p>
           </div>
           <span class="interest-symbol" aria-hidden="true">⌁</span>
         </article>
         <article class="interest-item">
           <span class="interest-number">03</span>
           <div>
-            <h3>Horror & oddities</h3>
-            <p>Spooky stories, suspicious woods, and all the strange little things that make life interesting.</p>
+            <h3>Horror & Oddities</h3>
+            <p> Scary stuff, weird folklore, ancient bacteria, and all the other weird shit that makes life worth interesting.</p>
           </div>
           <span class="interest-symbol" aria-hidden="true">◉</span>
         </article>

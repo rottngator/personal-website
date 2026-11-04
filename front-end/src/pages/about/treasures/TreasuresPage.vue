@@ -1,5 +1,5 @@
 <script setup>
-import { favoriteCharacters, favoriteCollections } from '../data/pages'
+import { favoriteCharacters, favoriteCollections } from '../../../data/pages'
 </script>
 
 <template>

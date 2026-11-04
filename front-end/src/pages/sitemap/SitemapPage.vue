@@ -1,5 +1,5 @@
 <script setup>
-import { navigation } from '../data/navigation'
+import { navigation } from '../../data/navigation'
 </script>
 
 <template>
